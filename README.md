@@ -7,4 +7,11 @@ ratio: Root shoot ratio;
 Sand: soil sand content
 pH: soil pH;
 rzwc: root-zone water capacity;
-AI: aridity index.
+AI: aridity index;
+H:vegetation height;
+thickness:leaf thickness;
+LDMC:leaf dry matter content;
+SLA: specific leaf area;
+SRL: specific root length; 
+RRD rooting depth.
+ln:log transformed variables
